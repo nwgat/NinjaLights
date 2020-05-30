@@ -1,6 +1,8 @@
 # NinjaLights
 Dim all lights when a movie is playing in Kodi 
 
+![injaLights.png]()
+
 ## Features
 * Dim all lights
 * Works on MicroPython 1.12

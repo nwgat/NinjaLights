@@ -1,5 +1,6 @@
 # NinjaLights
-Simple 
+Dim all lights when a movie is playing in Kodi 
+work in progress, still need to code the code part
 
 ## Features
 * Dim all lights

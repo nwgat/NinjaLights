@@ -1,7 +1,7 @@
 # NinjaLights
 Dim all lights when a movie is playing in Kodi 
 
-![injaLights.png]()
+![NinjaLights.png](NinjaLights.png)
 
 ## Features
 * Dim all lights

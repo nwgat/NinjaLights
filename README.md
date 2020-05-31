@@ -11,8 +11,8 @@ Dim all lights when a movie is playing in Kodi
 ESP(8266/32)
 * edit config.py with your wifi network and password
 * transfer files except client.py to your device
-* start your device
-* Wait 10 sec
+* run repl, ctrl + d
+* Wait for huebridge message
 * Push the button on your Hue Bridge
 
 Kodi
